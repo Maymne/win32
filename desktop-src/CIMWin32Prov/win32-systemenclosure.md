@@ -387,6 +387,90 @@ This property is inherited from [**CIM\_Chassis**](cim-chassis.md).
 
 </dt> <dd></dd> </dl>
 
+<span id="Multi-system_chassis"></span><span id="multi-system_chassis"></span><span id="MULTI-SYSTEM_CHASSIS"></span>
+
+**Multi-system chassis** (25)
+
+
+</dt> <dd></dd> </dl>
+
+<span id="Compact_PCI"></span><span id="compact_pci"></span><span id="COMPACT_PCI"></span>
+
+**Compact PCI** (26)
+
+
+</dt> <dd></dd> </dl>
+
+<span id="Advanced_TCA"></span><span id="advanced_tca"></span><span id="ADVANCED_TCA"></span>
+
+**Advanced TCA** (27)
+
+
+</dt> <dd></dd> </dl>
+
+<span id="Blade"></span><span id="blade"></span><span id="BLADE"></span>
+
+**Blade** (28)
+
+
+</dt> <dd></dd> </dl>
+
+<span id="Blade_Enclosure"></span><span id="blade_enclosure"></span><span id="BLADE_ENCLOSURE"></span>
+
+**Blade Enclosure** (29)
+
+
+</dt> <dd></dd> </dl>
+
+<span id="Tablet"></span><span id="tablet"></span><span id="TABLET"></span>
+
+**Tablet** (30)
+
+
+</dt> <dd></dd> </dl>
+
+<span id="Convertible"></span><span id="convertible"></span><span id="CONVERTIBLE"></span>
+
+**Convertible** (31)
+
+
+</dt> <dd></dd> </dl>
+
+<span id="Detachable"></span><span id="detachable"></span><span id="DETACHABLE"></span>
+
+**Detachable** (32)
+
+
+</dt> <dd></dd> </dl>
+
+<span id="IoT_Gateway"></span><span id="iot_gateway"></span><span id="IOT_GATEWAY"></span>
+
+**IoT Gateway** (33)
+
+
+</dt> <dd></dd> </dl>
+
+<span id="Embedded_PC"></span><span id="embedded_pc"></span><span id="EMBEDDED_PC"></span>
+
+**Embedded PC** (34)
+
+
+</dt> <dd></dd> </dl>
+
+<span id="Mini_PC"></span><span id="mini_pc"></span><span id="MINI_PC"></span>
+
+**Mini PC** (35)
+
+
+</dt> <dd></dd> </dl>
+
+<span id="Stick_PC"></span><span id="stick_pc"></span><span id="STICK_PC"></span>
+
+**Stick PC** (36)
+
+
+</dt> <dd></dd> </dl>
+
 </dd> <dt>
 
 **CreationClassName**
